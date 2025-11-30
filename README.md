@@ -1,8 +1,5 @@
-Here’s a clean, professional description for your GitHub project `Linkify`:
 
-````json
-{"id":"98121","variant":"standard","title":"GitHub Project Description"}
-<content>
+
 # Linkify - Social Media App
 
 Linkify is a modern social media application built with Flutter, offering a seamless and interactive user experience. The app enables users to connect, share content, and engage with communities through a clean and intuitive interface. Designed for both Android and iOS, Linkify focuses on speed, simplicity, and scalability.
@@ -55,5 +52,6 @@ This project is licensed under the MIT License.
 
 **Hashtags for sharing:**  
 #Flutter #Dart #MobileApp #SocialApp #OpenSource #Linkify #CrossPlatform
-</content>
+
 ````
+
